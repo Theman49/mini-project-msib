@@ -1,0 +1,6 @@
+R1 ansible_user=admin ansible_password=Admin12345 ansible_host=10.10.20.200 ansible_port=22 ansible_network_os=cisco.ios.ios ansible_python_interpreter=/usr/bin/python3
+
+
+S1 ansible_user=admin ansible_password=Admin12345 ansible_host=10.10.20.201 ansible_port=22 ansible_network_os=cisco.ios.ios ansible_python_interpreter=/usr/bin/python3
+
+S2 ansible_user=admin ansible_password=Admin12345 ansible_host=10.10.20.202 ansible_port=22 ansible_network_os=cisco.ios.ios ansible_python_interpreter=/usr/bin/python3
