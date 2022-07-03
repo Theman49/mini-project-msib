@@ -1,4 +1,0 @@
-sudo ifconfig eth0 172.16.101.80 netmask 255.255.255.224
-hostname host3
-USERNAME=host3
-PASSWORD=host3
